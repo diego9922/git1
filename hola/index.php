@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo  "hola soy falcao";
+        echo "se la lleva falca ... falcao y se la pasa al james...";
         ?>
     </body>
 </html>
