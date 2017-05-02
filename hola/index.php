@@ -14,6 +14,10 @@ and open the template in the editor.
         echo  "hola soy falcao";
         echo "se la lleva falca ... falcao y se la pasa al james...";
         echo "se la asa a falcao, y como todo buen colombiano se lo come sin portero señoras y señores jajajajaj";
+        
+        
+        
+        echo "XD";
         ?>
     </body>
 </html>
