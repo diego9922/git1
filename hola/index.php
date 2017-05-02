@@ -18,6 +18,7 @@ and open the template in the editor.
         
         
         echo "XD";
+        echo "............d.d.d.d.d.dd.";
         ?>
     </body>
 </html>
